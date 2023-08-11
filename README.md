@@ -2,9 +2,10 @@
 
 Program is written in JavaScript
 
-# Program features
+# Program Features
 
 Users can create custom list by changing the url
+
 For example: localhost:5000 is the default list. A new list can be created by adding /nameOfList to the end of url
 
 ## default list
@@ -22,3 +23,8 @@ For example: localhost:5000 is the default list. A new list can be created by ad
 - ![a custom list is created with the new url](image-3.png)
 
   - the custom list is created with the modified url
+
+# Running Program
+
+- Install all the necessary node modules with `npm i`
+- Running program with `nodemon app.js`
